@@ -1,24 +1,102 @@
 [
   {
-    "id": "ems-truck",
-    "name": "Em’s Coffee Truck",
+    "id": "frothy-monkey-franklin",
+    "name": "Frothy Monkey",
     "city": "Franklin",
     "state": "TN",
     "category": "Coffee",
-    "tags": ["food truck","coffee","breakfast"],
-    "hours": "Mon–Fri 7am–2pm",
-    "website": "https://example.com",
-    "lat": 35.9251,
-    "lng": -86.8689
+    "tags": ["coffee", "breakfast", "bakery"],
+    "hours": "Daily 7am–9pm",
+    "website": "https://frothymonkey.com/locations/franklin"
   },
   {
-    "id": "revolution-pilates",
-    "name": "Revolution Pilates",
-    "city": "Nashville",
+    "id": "grays-on-main",
+    "name": "Grays on Main",
+    "city": "Franklin",
     "state": "TN",
-    "category": "Pilates",
-    "tags": ["health","pilates","gym"],
-    "hours": "Daily 6am–8pm",
-    "website": "https://revolutionpilates.example"
+    "category": "Restaurant",
+    "tags": ["restaurant", "southern", "cocktails"],
+    "hours": "Tue–Thu 4pm–9pm; Fri–Sat 4pm–10pm; Sun 11am–3pm",
+    "website": "https://graysonmain.com/"
+  },
+  {
+    "id": "pucketts-grocery",
+    "name": "Puckett’s Grocery & Restaurant",
+    "city": "Franklin",
+    "state": "TN",
+    "category": "Restaurant",
+    "tags": ["southern", "barbecue", "live music"],
+    "hours": "Mon–Sun 7am–9pm",
+    "website": "https://puckettsgro.com/franklin/"
+  },
+  {
+    "id": "meridees-breadbasket",
+    "name": "Merridee’s Breadbasket",
+    "city": "Franklin",
+    "state": "TN",
+    "category": "Bakery",
+    "tags": ["bakery", "breakfast", "coffee"],
+    "hours": "Mon–Sat 7am–5pm",
+    "website": "https://www.merridees.com/"
+  },
+  {
+    "id": "five-daughters-franklin",
+    "name": "Five Daughters Bakery",
+    "city": "Franklin",
+    "state": "TN",
+    "category": "Bakery",
+    "tags": ["bakery", "donuts", "coffee"],
+    "hours": "Daily 7am–10pm",
+    "website": "https://fivedaughtersbakery.com/"
+  },
+  {
+    "id": "kilwins-franklin",
+    "name": "Kilwins Franklin",
+    "city": "Franklin",
+    "state": "TN",
+    "category": "Dessert",
+    "tags": ["ice cream", "candy", "chocolate"],
+    "hours": "Daily 11am–9pm",
+    "website": "https://www.kilwins.com/franklin"
+  },
+  {
+    "id": "biscuit-love-franklin",
+    "name": "Biscuit Love",
+    "city": "Franklin",
+    "state": "TN",
+    "category": "Breakfast",
+    "tags": ["breakfast", "brunch", "southern"],
+    "hours": "Daily 7am–3pm",
+    "website": "https://biscuitlove.com/"
+  },
+  {
+    "id": "yoga-franklin",
+    "name": "Half Moon Yoga Healing",
+    "city": "Franklin",
+    "state": "TN",
+    "category": "Health",
+    "tags": ["yoga", "pilates", "fitness"],
+    "hours": "Varies by class schedule",
+    "website": "https://www.halfmoonyoga.org/"
+  },
+  {
+    "id": "gratiashop-franklin",
+    "name": "Gratia Clothing",
+    "city": "Franklin",
+    "state": "TN",
+    "category": "Clothes",
+    "tags": ["clothing", "boutique", "fashion"],
+    "hours": "Mon–Sat 10am–6pm; Sun 12pm–5pm",
+    "website": "https://gratiashop.com/"
+  },
+  {
+    "id": "franklin-theater",
+    "name": "The Franklin Theatre",
+    "city": "Franklin",
+    "state": "TN",
+    "category": "Events",
+    "tags": ["events", "movies", "concerts"],
+    "hours": "Showtimes vary",
+    "website": "https://www.franklintheatre.com/"
   }
 ]
