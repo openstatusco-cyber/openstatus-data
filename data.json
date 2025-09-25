@@ -1,22 +1,12 @@
-[
-  {
-    "id": "ems-truck",
-    "name": "Em’s Coffee Truck",
-    "city": "Franklin",
-    "state": "TN",
-    "category": "Coffee",
-    "website": "https://example.com",
-    "hours": "Mon Fri 7am 2pm",
-    "tags": ["food truck", "mobile", "espresso"]
-  },
-  {
-    "id": "taco-vibe",
-    "name": "Taco Vibe",
-    "city": "Nashville",
-    "state": "TN",
-    "category": "Mexican",
-    "website": "https://tacovibe.example",
-    "hours": "Daily 11am 9pm",
-    "tags": ["tacos", "local", "late night"]
-  }
-]
+{
+  "id": "ems-truck",
+  "name": "Em’s Coffee Truck",
+  "city": "Franklin",
+  "state": "TN",
+  "category": "Coffee",
+  "website": "https://example.com",
+  "hours": "Mon Fri 7am 2pm",
+  "tags": ["food truck", "mobile", "espresso"],
+  "lat": 35.9251,
+  "lng": -86.8689
+}
