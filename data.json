@@ -5,39 +5,43 @@
     "city": "Franklin",
     "state": "TN",
     "category": "Coffee",
-    "tags": ["coffee", "breakfast", "bakery"],
+    "tags": ["coffee", "breakfast", "bakery", "kid-friendly"],
     "hours": "Daily 7am–9pm",
-    "website": "https://frothymonkey.com/locations/franklin"
+    "website": "https://frothymonkey.com/locations/franklin",
+    "photo": "https://images.unsplash.com/photo-1504753793650-d4a2b783c15e?q=80&w=1600&auto=format&fit=crop"
   },
   {
     "id": "grays-on-main",
     "name": "Grays on Main",
     "city": "Franklin",
     "state": "TN",
-    "category": "Restaurant",
-    "tags": ["restaurant", "southern", "cocktails"],
+    "category": "Restaurants",
+    "tags": ["southern", "cocktails", "restaurants"],
     "hours": "Tue–Thu 4pm–9pm; Fri–Sat 4pm–10pm; Sun 11am–3pm",
-    "website": "https://graysonmain.com/"
+    "website": "https://graysonmain.com/",
+    "photo": "https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=1600&auto=format&fit=crop"
   },
   {
     "id": "pucketts-grocery",
     "name": "Puckett’s Grocery & Restaurant",
     "city": "Franklin",
     "state": "TN",
-    "category": "Restaurant",
-    "tags": ["southern", "barbecue", "live music"],
+    "category": "Restaurants",
+    "tags": ["southern", "barbecue", "live music", "restaurants"],
     "hours": "Mon–Sun 7am–9pm",
-    "website": "https://puckettsgro.com/franklin/"
+    "website": "https://puckettsgro.com/franklin/",
+    "photo": "https://images.unsplash.com/photo-1559333088-9e3d0c6c86f9?q=80&w=1600&auto=format&fit=crop"
   },
   {
-    "id": "meridees-breadbasket",
+    "id": "merridees-breadbasket",
     "name": "Merridee’s Breadbasket",
     "city": "Franklin",
     "state": "TN",
     "category": "Bakery",
-    "tags": ["bakery", "breakfast", "coffee"],
+    "tags": ["bakery", "breakfast", "coffee", "vegetarian"],
     "hours": "Mon–Sat 7am–5pm",
-    "website": "https://www.merridees.com/"
+    "website": "https://www.merridees.com/",
+    "photo": "https://images.unsplash.com/photo-1541782814453-a7f992034fec?q=80&w=1600&auto=format&fit=crop"
   },
   {
     "id": "five-daughters-franklin",
@@ -45,20 +49,10 @@
     "city": "Franklin",
     "state": "TN",
     "category": "Bakery",
-    "tags": ["bakery", "donuts", "coffee"],
+    "tags": ["bakery", "donuts", "coffee", "kid-friendly"],
     "hours": "Daily 7am–10pm",
-    "website": "https://fivedaughtersbakery.com/
-  
-  },
-  {
-    "id": "kilwins-franklin",
-    "name": "Kilwins Franklin",
-    "city": "Franklin",
-    "state": "TN",
-    "category": "Dessert",
-    "tags": ["ice cream", "candy", "chocolate"],
-    "hours": "Daily 11am–9pm",
-    "website": "https://www.kilwins.com/franklin"
+    "website": "https://fivedaughtersbakery.com/",
+    "photo": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?q=80&w=1600&auto=format&fit=crop"
   },
   {
     "id": "biscuit-love-franklin",
@@ -66,38 +60,53 @@
     "city": "Franklin",
     "state": "TN",
     "category": "Breakfast",
-    "tags": ["breakfast", "brunch", "southern"],
+    "tags": ["breakfast", "brunch", "southern", "kid-friendly"],
     "hours": "Daily 7am–3pm",
-    "website": "https://biscuitlove.com/"
+    "website": "https://biscuitlove.com/",
+    "photo": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?q=80&w=1600&auto=format&fit=crop"
   },
   {
-    "id": "yoga-franklin",
-    "name": "Half Moon Yoga Healing",
-    "city": "Franklin",
-    "state": "TN",
-    "category": "Health",
-    "tags": ["yoga", "pilates", "fitness"],
-    "hours": "Varies by class schedule",
-    "website": "https://www.halfmoonyoga.org/"
-  },
-  {
-    "id": "gratiashop-franklin",
+    "id": "gratia-clothing",
     "name": "Gratia Clothing",
     "city": "Franklin",
     "state": "TN",
     "category": "Clothes",
-    "tags": ["clothing", "boutique", "fashion"],
+    "tags": ["clothes", "boutique", "fashion"],
     "hours": "Mon–Sat 10am–6pm; Sun 12pm–5pm",
-    "website": "https://gratiashop.com/"
+    "website": "https://gratiashop.com/",
+    "photo": "https://images.unsplash.com/photo-1520975916090-3105956dac38?q=80&w=1600&auto=format&fit=crop"
   },
   {
-    "id": "franklin-theater",
+    "id": "half-moon-yoga",
+    "name": "Half Moon Yoga Healing",
+    "city": "Franklin",
+    "state": "TN",
+    "category": "Health",
+    "tags": ["yoga", "pilates", "health"],
+    "hours": "Varies by class",
+    "website": "https://www.halfmoonyoga.org/",
+    "photo": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "id": "franklin-theatre",
     "name": "The Franklin Theatre",
     "city": "Franklin",
     "state": "TN",
     "category": "Events",
     "tags": ["events", "movies", "concerts"],
     "hours": "Showtimes vary",
-    "website": "https://www.franklintheatre.com/"
+    "website": "https://www.franklintheatre.com/",
+    "photo": "https://images.unsplash.com/photo-1518895312237-9e24516b9a6c?q=80&w=1600&auto=format&fit=crop"
+  },
+  {
+    "id": "ems-coffee-truck",
+    "name": "Em’s Coffee Truck",
+    "city": "Franklin",
+    "state": "TN",
+    "category": "Food truck",
+    "tags": ["food truck", "coffee", "breakfast", "kid-friendly"],
+    "hours": "Mon–Fri 7am–2pm",
+    "website": "https://example.com/ems-coffee-truck",
+    "photo": "https://images.unsplash.com/photo-1517959105821-eaf2591984f5?q=80&w=1600&auto=format&fit=crop"
   }
 ]
