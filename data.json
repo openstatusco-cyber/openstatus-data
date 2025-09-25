@@ -1,12 +1,24 @@
-{
-  "id": "ems-truck",
-  "name": "Em’s Coffee Truck",
-  "city": "Franklin",
-  "state": "TN",
-  "category": "Coffee",
-  "website": "https://example.com",
-  "hours": "Mon Fri 7am 2pm",
-  "tags": ["food truck", "mobile", "espresso"],
-  "lat": 35.9251,
-  "lng": -86.8689
-}
+[
+  {
+    "id": "ems-truck",
+    "name": "Em’s Coffee Truck",
+    "city": "Franklin",
+    "state": "TN",
+    "category": "Coffee",
+    "tags": ["food truck","coffee","breakfast"],
+    "hours": "Mon–Fri 7am–2pm",
+    "website": "https://example.com",
+    "lat": 35.9251,
+    "lng": -86.8689
+  },
+  {
+    "id": "revolution-pilates",
+    "name": "Revolution Pilates",
+    "city": "Nashville",
+    "state": "TN",
+    "category": "Pilates",
+    "tags": ["health","pilates","gym"],
+    "hours": "Daily 6am–8pm",
+    "website": "https://revolutionpilates.example"
+  }
+]
